@@ -1,1 +1,3 @@
-# example
+# Headline
+
+> An awesome project.
