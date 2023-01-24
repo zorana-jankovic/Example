@@ -13,7 +13,8 @@ Yes this is right example
     - Inside
         - Inside
 
-```
-Example for accessibility issue related to Button "Click To Copy" 
-where Narator announcment about copying success is missed when clicking on it
+### Example for accessibility issue related to Button "Click To Copy" where Narator announcment about copying success is missed when clicking on it
+
+```sh
+Example code snippet with 'Click to copy' button.
 ```
